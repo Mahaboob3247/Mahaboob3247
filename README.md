@@ -2,7 +2,7 @@
 - 👀 I’m interested in ASW DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me https://www.linkedin.com/in/mahaboob-shaik-68012422b/ and shaikmahaboob3247@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/shaik-mahaboob-860453354/ and shaikmahaboob3247@gmail.com
 
 
 <!---
