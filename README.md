@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mahaboob3247
+- 👋 Hi, I’m @Mahaboob
 - 👀 I’m interested in ASW DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me https://www.linkedin.com/in/shaik-mahaboob-860453354/ and mahaboob.devops1@gmail.com
+- 📫 How to reach me (https://www.linkedin.com/in/shaik-mahaboob-devops1/) and shaikmahaboob3247@gmail.com
 
 
 <!---
